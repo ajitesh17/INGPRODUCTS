@@ -129,9 +129,9 @@
         <properties>
             <spring.profiles.active>dev</spring.profiles.active>
         </properties>
-        <activation>
+        <!--activation>
             <activeByDefault>true</activeByDefault>
-        </activation>
+        </activation-->
     </profile>
     <profile>
         <id>uat</id>
